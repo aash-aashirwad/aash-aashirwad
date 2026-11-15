@@ -10,7 +10,7 @@
 ---
 
 ### about
-[#about](#about)
+[#about]
 - 3rd year CSE student at VIT-AP
 - building AI agents — function calling, LangGraph, memory, tracing
 - working on security/ML projects like TLSight (SIH, NTRO problem statement) and PhishSentinel AI
@@ -19,14 +19,14 @@
 ---
 
 ### stack
-[#stack](#stack)
+[#stack]
 
 ![](https://skillicons.dev/icons?i=py,java,cpp,js,react,nodejs,postgres,aws,linux,git&perline=10&theme=dark)
 
 ---
 
 ### current projects
-[#current-projects](#current-projects)
+[#current-projects]
 
 | project | what it is | stack |
 |---|---|---|
